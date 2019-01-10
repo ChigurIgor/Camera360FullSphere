@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Panoramic Camera</string>
+    <!-- UI Elements -->
+    <string name="btn_capture">Fotos</string>
+
+    <!-- Toast Messages -->
+    <string name="camera_not_found">Keine Kamera erkannt. Melde dich erneut an</string>
+    <string name="take_photo_help">Klicken Sie auf eine beliebige Stelle auf dem Bildschirm, um ein Bild aufzunehmen</string>
+    <string name="belts">Gürtel vertikal</string>
+    <string name="sectors">Sektoren</string>
+    <string name="apply">Anwenden</string>
+
+    <string name="instr1">Ermöglicht Ihnen, eine Panorama-Kamera von Ihrem Telefon aus zu erstellen.
+Die Anwendung ermöglicht es Ihnen, das gesamte Gebiet zu fotografieren.
+         Es ist sehr praktisch für die Arbeit mit PTGui und anderen Nähanwendungen.
+    </string>
+    <string name="instr2">
+Sie müssen nur die Anzahl der Bänder vertikal und die Anzahl der Sektoren in der horizontalen Ebene in den Anwendungseinstellungen auswählen und Bilder entsprechend den Symbolen auf dem Bildschirm aufnehmen.
+    </string>
+    <string name="instr3">Die Anzahl der verbleibenden und aufgenommenen Bilder wird in der oberen linken Ecke angezeigt.
+    </string>
+    <string name="instr4">
+        Alle Fotos werden im Panoramakamera-Ordner gespeichert, wo sie bequem exportiert werden können, um Programme wie PTGui einzukleben.
+    </string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Panoramic Camera</string>
+    <!-- UI Elements -->
+    <string name="btn_capture">Photos</string>
+
+    <!-- Toast Messages -->
+    <string name="camera_not_found">Aucune caméra détectée. Essayez de vous connecter à nouveau</string>
+    <string name="take_photo_help">Cliquez n importe où dans l écran pour prendre une photo</string>
+    <string name="belts">Ceintures verticalement</string>
+    <string name="sectors">Secteurs</string>
+    <string name="apply">Appliquer</string>
+
+    <string name="instr1">Vous permet de faire un appareil photo panoramique à partir de votre téléphone.
+         L application vous permet de prendre des photos de toute la zone.
+        Il est très pratique pour travailler avec PTGui et d autres applications d assemblage.
+    </string>
+    <string name="instr2">
+Tout ce dont vous avez besoin est de sélectionner le nombre de courroies verticalement et le nombre de secteurs dans le plan horizontal dans les paramètres de l application et prendre des photos en fonction des icônes sur l écran.
+    </string>
+    <string name="instr3">Le nombre d images restantes et prises est affiché dans le coin supérieur gauche.
+    </string>
+    <string name="instr4">
+        Toutes les photos sont sauvegardées dans le dossier de la caméra panoramique où elles peuvent être facilement exportées pour un collage ultérieur dans des programmes tels que PTGui.
+    </string>
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Panoramic Camera</string>
+    <!-- UI Elements -->
+    <string name="btn_capture">תמונות</string>
+
+    <!-- Toast Messages -->
+    <string name="camera_not_found">לא זוהתה מצלמה. נסה להיכנס שוב</string>
+    <string name="take_photo_help">לחץ במקום כלשהו על המסך כדי לצלם תמונה</string>
+    <string name="belts">חגורות אנכית</string>
+    <string name="sectors">מגזרים</string>
+    <string name="apply">להגיש מועמדות</string>
+
+    <string name="instr1">מאפשר לך ליצור מצלמה פנורמית מהטלפון שלך.
+היישום מאפשר לך לצלם את כל האזור.
+         זה מאוד נוח לעבודה עם PTGui ויישומים תפירה אחרים.
+    </string>
+    <string name="instr2">
+כל מה שאתה צריך הוא לבחור את מספר חגורות אנכית ואת מספר המגזרים במישור האופקי בהגדרות היישום ולקחת תמונות על פי הסמלים על המסך.    </string>
+    <string name="instr3">מספר התמונות שנותרו וצולמו מוצג בפינה השמאלית העליונה.
+    </string>
+    <string name="instr4">
+        כל התצלומים נשמרים בתיקייה מצלמה פנורמית שבה ניתן לייצא אותם בקלות להדבקה נוספת בתוכניות כמו PTGui.
+    </string>
+</resources>

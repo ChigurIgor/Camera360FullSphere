@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Panoramic Camera</string>
+    <!-- UI Elements -->
+    <string name="btn_capture">صور</string>
+
+    <!-- Toast Messages -->
+    <string name="camera_not_found">لم يتم اكتشاف كاميرا. حاول تسجيل الدخول مرة أخرى</string>
+    <string name="take_photo_help">انقر في أي مكان على الشاشة لالتقاط صورة</string>
+    <string name="belts">أحزمة عموديا</string>
+    <string name="sectors">قطاع</string>
+    <string name="apply">تطبيق</string>
+
+    <string name="instr1">يسمح لك بعمل كاميرا بانورامية من هاتفك.
+تطبيق يسمح لك لالتقاط صور للمنطقة بأكملها.
+         انها مريحة للغاية للعمل مع PTGui وغيرها من تطبيقات خياطة.
+    </string>
+    <string name="instr2">
+كل ما تحتاجه هو تحديد عدد الأحزمة رأسياً وعدد القطاعات في المستوى الأفقي في إعدادات التطبيق والتقاط الصور وفقًا للرموز على الشاشة.  </string>
+    <string name="instr3">ﻳﺘﻢ ﻋﺮض ﻋﺪد اﻟﺼﻮر اﻟﻤﺘﺒﻘﻴﺔ واﻟﻤﺄﺧﻮذة ﻓﻲ اﻟﺠﺎﻧﺐ اﻷﻳﺴﺮ اﻟﻌﻠﻮي.
+    </string>
+    <string name="instr4">
+      يتم حفظ جميع الصور في مجلد الكاميرا البانورامية حيث يمكن تصديرها بسهولة لمزيد من الإلتصاق في برامج مثل PTGui.
+    </string>
+</resources>

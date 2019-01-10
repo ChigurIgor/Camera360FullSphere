@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Panoramic Camera</string>
+    <!-- UI Elements -->
+    <string name="btn_capture">फ़ोटो</string>
+
+    <!-- Toast Messages -->
+    <string name="camera_not_found">कोई कैमरा नहीं मिला फिर से साइन इन करने का प्रयास करें</string>
+    <string name="take_photo_help">एक तस्वीर लेने के लिए स्क्रीन पर कहीं भी क्लिक करें</string>
+    <string name="belts">लंबवत बेल्ट</string>
+    <string name="sectors">क्षेत्र</string>
+    <string name="apply">लागू करें</string>
+
+    <string name="instr1">आपको अपने फोन से पैनोरैमिक कैमरा बनाने की अनुमति देता है।
+आवेदन आपको पूरे क्षेत्र की तस्वीरें लेने की अनुमति देता है।
+         यह PTGui और अन्य सिलाई अनुप्रयोगों के साथ काम करने के लिए बहुत सुविधाजनक है।
+    </string>
+    <string name="instr2">
+आपको केवल आवेदन की सेटिंग्स में क्षैतिज विमान में लंबवत संख्याओं और क्षेत्रों की संख्या का चयन करना है और स्क्रीन पर आइकन के अनुसार चित्र लेना है। </string>
+    <string name="instr3">ऊपरी बाएं कोने में शेष और ली गई तस्वीरों की संख्या प्रदर्शित होती है।
+    </string>
+    <string name="instr4">
+सभी तस्वीरें पैनोरामिक कैमरा फ़ोल्डर में सहेजी जाती हैं जहां उन्हें आसानी से प्रोग्रामों में आगे ग्लूइंग के लिए निर्यात किया जा सकता है PTGui।    </string>
+</resources>

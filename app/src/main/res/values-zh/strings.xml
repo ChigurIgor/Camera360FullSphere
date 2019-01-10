@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Panoramic Camera</string>
+    <!-- UI Elements -->
+    <string name="btn_capture">照片</string>
+
+    <!-- Toast Messages -->
+    <string name="camera_not_found">没有检测到相机。 尝试重新登录</string>
+    <string name="take_photo_help">单击屏幕上的任意位置即可拍照</string>
+    <string name="belts">腰带垂直</string>
+    <string name="sectors">扇形</string>
+    <string name="apply">应用</string>
+
+    <string name="instr1">允许您通过手机制作全景相机。
+该应用程序允许您拍摄整个区域的照片。
+         使用PTGui和其他拼接应用非常方便。
+    </string>
+    <string name="instr2">
+您只需在应用程序设置中选择垂直皮带数量和水平面上的扇区数量，并根据屏幕上的图标拍摄照片。
+    </string>
+    <string name="instr3">剩余和拍摄的图片数量显示在左上角。
+    </string>
+    <string name="instr4">
+        所有照片都保存在“全景相机”文件夹中，可以方便地导出，以便在以下程序中进一步粘贴
+
+PTGui。
+    </string>
+</resources>

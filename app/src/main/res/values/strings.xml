@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Panoramic Camera</string>
+    <!-- UI Elements -->
+    <string name="btn_capture">Photo</string>
+
+    // Constants
+    <string name="YOUR_ADMOB_APP_ID">ca-app-pub-4369121258324905~2625954148</string>
+    <string name="BANER_PANORAMIC_CAMERA_MAIN_ID">ca-app-pub-4369121258324905/1500574733</string>
+    // Constants
+
+    <!-- Toast Messages -->
+    <string name="camera_not_found">No camera harware found. Try to get into the app again</string>
+    <string name="take_photo_help">Touch anywhere on screen to take picture</string>
+    <string name="belts">Belts</string>
+    <string name="sectors">Sectors</string>
+    <string name="apply">Apply</string>
+
+    <string name="instr1">Allows you to make a panoramic camera from your phone.
+        The application allows you to take pictures of the whole area.
+        It is very convenient for working with PTGui and other applications for stitching.</string>
+    <string name="instr2">
+All you need is to select the number of belts vertically and the number of sectors in the horizontal plane in the application settings and take pictures according to the icons on the screen.
+    </string>
+    <string name="instr3">The number of remaining and taken pictures is displayed in the upper left corner.
+    </string>
+    <string name="instr4">
+        All the photos are saved in the Panoramic Camera folder where they can be conveniently exported for further gluing in programs like PtGui.
+</string>
+
+</resources>
